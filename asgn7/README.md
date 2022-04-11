@@ -1,4 +1,4 @@
-# Assignment 7
+# LZ78 data compression
 
 Compresses and decompresses text using the LZ78 algorithm.
 
